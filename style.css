@@ -254,3 +254,129 @@ button:hover {
     margin: 20px;
     padding: 15px;
 }
+
+/* Moon Webpage */
+
+.moon-page {
+    background-color: white;
+}
+
+.header-moon h1{
+    text-align: center;
+    padding: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    margin-top: 10px;
+    font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+.subtext-three img {
+    display: block;
+}
+
+.subtext-three p {
+    color: black;
+    text-align: left;
+    margin-top: 5px;
+    font-style: italic;
+}
+
+.container-three {
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.top-three {
+    height: 100%;
+    width: 800px;
+    background-color:#15abf6;
+    border: 5px solid #f9ca0f;
+    margin: 20px;
+    padding: 15px;
+}
+
+.top-three h3 {
+    border: 3px solid #438bf7;
+    margin: 5px;
+    padding: 15px;
+    background-color:rgba(59, 116, 251, 0.907);
+    color: white;
+    font-size: 25px;
+}
+
+.middle-three {
+    height: 100%;
+    width: 800px;
+    background-color:#1183f5;
+    border: 5px solid #f9ca0f;
+    margin: 20px;
+    padding: 15px;
+}
+
+/* Sun webpage */
+
+.sun-page {
+    background-color: white;
+}
+
+.header-sun h1{
+    text-align: center;
+    padding: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    margin-top: 10px;
+    font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+.subtext-four img {
+    display: block;
+}
+
+.subtext-four p {
+    color: black;
+    text-align: left;
+    margin-top: 5px;
+    font-style: italic;
+}
+
+.container-four {
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.top-four {
+    height: 100%;
+    width: 800px;
+    background-color:#15abf6;
+    border: 5px solid #f9ca0f;
+    margin: 20px;
+    padding: 15px;
+}
+
+.top-four h3 {
+    border: 3px solid #438bf7;
+    margin: 5px;
+    padding: 15px;
+    background-color:rgba(59, 116, 251, 0.907);
+    color: white;
+    font-size: 25px;
+}
+
+.middle-four {
+    height: 100%;
+    width: 800px;
+    background-color:#1183f5;
+    border: 5px solid #f9ca0f;
+    margin: 20px;
+    padding: 15px;
+}
