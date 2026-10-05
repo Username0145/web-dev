@@ -107,6 +107,15 @@ body {
     box-shadow: 0 0 15px white;
 }
 
+/* Mercury */
+
+.mercury {
+    right: 33%;
+    top: 100px;
+
+    box-shadow: 0 0 20px #E5E5E5
+}
+
 
 /* Button styling */
 button {
@@ -379,4 +388,71 @@ button:hover {
     border: 5px solid #f9ca0f;
     margin: 20px;
     padding: 15px;
+}
+
+/* Mercury's weboage */
+
+.mercury-page {
+    background-color: #504E51;
+}
+
+.header-mercury h1{
+    text-align: center;
+    padding: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: White;
+    margin-top: 10px;
+    font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+.subtext-five img {
+    display: block;
+}
+
+.subtext-five p {
+    color: white;
+    text-align: left;
+    margin-top: 5px;
+    font-style: italic;
+}
+
+.container-five {
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.top-five {
+    height: 100%;
+    width: 800px;
+    background-color:#CECCD1;
+    border: 5px solid #000000;
+    margin: 20px;
+    padding: 15px;
+}
+
+.top-five h3 {
+    border: 3px solid #438bf7;
+    margin: 5px;
+    padding: 15px;
+    background-color: #CECCD1;
+    color: Black;
+    font-size: 25px;
+}
+
+.middle-five {
+    height: 100%;
+    width: 800px;
+    background-color: #CECCD1;
+    border: 5px solid #000000;
+    margin: 20px;
+    padding: 15px;
+}
+
+.end-five h3 {
+    color:white;
 }
